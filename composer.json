@@ -1,0 +1,10 @@
+{"autoload":{
+	"classmap":[
+	"lib/Controller.php",
+    "lib/Load.php",
+    "lib/Url.php",
+    "lib/Model.php",
+    "lib/Database.php"
+	]
+}
+}
